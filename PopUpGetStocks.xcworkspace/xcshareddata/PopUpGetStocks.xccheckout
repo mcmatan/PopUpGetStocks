@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7CB0EB08-F312-4121-97C0-2039A1D16F58</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PopUpGetStocks</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00F61BEFC293ECCD3B1AB5E6653B3451D5417E33</key>
+		<string>github.com:mcmatan/PopUpGetStocks.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PopUpGetStocks.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00F61BEFC293ECCD3B1AB5E6653B3451D5417E33</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:mcmatan/PopUpGetStocks.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00F61BEFC293ECCD3B1AB5E6653B3451D5417E33</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00F61BEFC293ECCD3B1AB5E6653B3451D5417E33</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PopUpGetStocks</string>
+		</dict>
+	</array>
+</dict>
+</plist>

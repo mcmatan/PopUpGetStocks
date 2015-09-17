@@ -253,7 +253,7 @@ class InfoPopUp: UIViewController {
         let delayTimeDissmiss = dispatch_time(DISPATCH_TIME_NOW,
             Int64(0.6 * Double(NSEC_PER_SEC)))
         dispatch_after(delayTimeDissmiss, dispatch_get_main_queue()) {
-            self.dismissViewControllerAnimated(true, completion: nil)
+            self.dismissViewControllerAnimated(false, completion: nil)
         }
     }
 }
