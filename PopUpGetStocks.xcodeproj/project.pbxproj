@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		389B81ACBB4EF8500A76211F /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E8BF32E348354A27CF6AD75 /* Pods.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+		8A02CC8D1BAAB90D001045E0 /* Curly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A02CC8C1BAAB90D001045E0 /* Curly.swift */; };
 		8AE3827C1BA9CAC500A5391F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE3827B1BA9CAC500A5391F /* AppDelegate.swift */; };
 		8AE3827E1BA9CAC500A5391F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AE3827D1BA9CAC500A5391F /* ViewController.swift */; };
 		8AE382811BA9CAC500A5391F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8AE3827F1BA9CAC500A5391F /* Main.storyboard */; };
@@ -30,6 +31,7 @@
 /* Begin PBXFileReference section */
 		0E8BF32E348354A27CF6AD75 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DF1DF85486E6872A9D6A98B /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		8A02CC8C1BAAB90D001045E0 /* Curly.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Curly.swift; sourceTree = "<group>"; };
 		8AE382761BA9CAC500A5391F /* PopUpGetStocks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PopUpGetStocks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AE3827A1BA9CAC500A5391F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AE3827B1BA9CAC500A5391F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -71,6 +73,14 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		8A02CC8B1BAAB902001045E0 /* Framworks */ = {
+			isa = PBXGroup;
+			children = (
+				8A02CC8C1BAAB90D001045E0 /* Curly.swift */,
+			);
+			name = Framworks;
+			sourceTree = "<group>";
+		};
 		8AE3826D1BA9CAC500A5391F = {
 			isa = PBXGroup;
 			children = (
@@ -94,6 +104,7 @@
 		8AE382781BA9CAC500A5391F /* PopUpGetStocks */ = {
 			isa = PBXGroup;
 			children = (
+				8A02CC8B1BAAB902001045E0 /* Framworks */,
 				8AE3829B1BA9CBEF00A5391F /* InfoPopUp */,
 				8AE3827B1BA9CAC500A5391F /* AppDelegate.swift */,
 				8AE3827D1BA9CAC500A5391F /* ViewController.swift */,
@@ -299,6 +310,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8AE3829D1BA9CC4600A5391F /* InfoPopUp.swift in Sources */,
+				8A02CC8D1BAAB90D001045E0 /* Curly.swift in Sources */,
 				8AE3827E1BA9CAC500A5391F /* ViewController.swift in Sources */,
 				8AE3827C1BA9CAC500A5391F /* AppDelegate.swift in Sources */,
 			);
