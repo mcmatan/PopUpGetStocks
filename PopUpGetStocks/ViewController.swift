@@ -45,7 +45,7 @@ class ViewController: UIViewController {
         self.definesPresentationContext = true;
         vc.modalPresentationStyle = UIModalPresentationStyle.Custom
         
-        self.presentViewController(vc, animated: true, completion: nil)
+        self.presentViewController(vc, animated: false, completion: nil)
         
     }
 }
